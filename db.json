@@ -1,0 +1,27 @@
+{
+  "currentUser": {
+    "name": "admin"
+  },
+  "countries": [
+    {
+      "id": "SINGAPORE",
+      "name": "Singapore"
+    },
+    {
+      "id": "INDIA",
+      "name": "India"
+    },
+    {
+      "id": "MALAYSIA",
+      "name": "Malaysia"
+    },
+    {
+      "id": "INDONESIA",
+      "name": "Indonesia"
+    },
+    {
+      "id": "VIETNAM",
+      "name": "Vietnam"
+    }
+  ]
+}
